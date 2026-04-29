@@ -17,3 +17,6 @@ This project uses an Arduino-compatible board to toggle an LED using a push butt
 
 ## How It Works
 The system continuously reads the button state. When a press is detected, the LED state is toggled. Debouncing is used to prevent multiple triggers from a single press.
+
+## Demo
+![Demo] (button_toggle_demo.mp4)
